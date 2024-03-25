@@ -1,10 +1,10 @@
 package objects;
 
-public class beer {
+public class Beer {
     String name;
     boolean typ;
 
-    public beer(String name, boolean typ){
+    public Beer(String name, boolean typ){
         this.name = name;
         this.typ = typ;
     }
